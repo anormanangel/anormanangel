@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Norman Angel
-- 👀 I’m interested in datascience
-- 🌱 I’m currently learning python for data analysis
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python for Data Analysis
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me: anormanangel@gmail.com
+- 📫 Reach me on email: anormanangel@gmail.com
 
 <!---
 anormanangel/anormanangel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
